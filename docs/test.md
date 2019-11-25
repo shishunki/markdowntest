@@ -1,3 +1,3 @@
 hage
 
-！[人間](./figure_gakeppushi.png "現状")
+![人間](./figure_gakeppuchi.png "現状")
